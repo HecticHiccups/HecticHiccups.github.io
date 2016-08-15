@@ -1,0 +1,45 @@
+/* *{
+    border: 1px solid red !important;
+    }
+
+/* * {
+    font-family: 'Indie Flower', cursive;
+}
+
+/* h1 {
+    text-align: center;
+} 
+*/
+
+
+img {
+     max-width: 100px;
+}
+body {
+    font-family:  'Lato', cursive;
+    color: #747704;
+    font-weight: 300; /* Using two diff fonts, this w/ Weight 300 ! Think */   
+  
+}
+.text-muted {
+    color: #BCBBBB;
+}
+
+.text-thin {
+    font-weight:100;
+}
+
+.title-super {
+    font-size: 60px;
+}
+.title-logo {
+ margin-top: 20px;
+}
+
+/* * {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*/
